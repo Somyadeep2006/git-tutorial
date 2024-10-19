@@ -1,0 +1,9 @@
+touch file1
+cd file1
+echo "DEV OPS"
+cd ..
+touch file2
+cd file2
+echo "Computer"
+cd ..
+
